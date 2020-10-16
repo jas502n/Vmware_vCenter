@@ -11,6 +11,11 @@ https://www.jas502n.com/eam/vib?id=C:\ProgramData\VMware\vCenterServer\cfg\vmwar
 https://www.jas502n.com/eam/vib?id=C:\Windows\win.ini
 ```
 
+测试环境：
+
+`VMware vFabric tc Runtime 2.9.7.RELEASE/7.0.55.A.RELEASE`
+![](info.png)
+
 ![](./vmware.png)
 ![](./vsphere-client.png)
 ![](./eam_vib.png)
