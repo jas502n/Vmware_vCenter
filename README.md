@@ -1,6 +1,8 @@
 # VMware vCenter 低版本存在未授权任意文件读取漏洞
 # Arbitrary File Read vulnerability in VMware vCenter(Unauthenticated)
 
+![](./vmware.gif)
+
 ## Poc from:
 https://twitter.com/ptswarm/status/1316016337550938122
 
